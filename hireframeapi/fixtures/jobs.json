@@ -1,0 +1,26 @@
+[
+  {
+    "model": "hireframeapi.job",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "company": "Company 1",
+      "title": "Job 1",
+      "status": "Applied",
+      "description": "Job 1 Description",
+      "date_created": "2023-08-08T14:51:39.989Z"
+    }
+  },
+  {
+    "model": "hireframeapi.job",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "company": "Company 2",
+      "title": "Job 2",
+      "status": "Wishlist",
+      "description": "Job 2 Description",
+      "date_created": "2023-08-08T14:51:39.989Z"
+    }
+  }
+]

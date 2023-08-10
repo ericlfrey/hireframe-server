@@ -1,9 +1,8 @@
 from django.db import models
-from django.contrib.auth.models import User
 
 
 class Job(models.Model):
-    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    seeker = models.ForeignKey("Seeker", on_delete=models.CASCADE)
     company = models.CharField(max_length=255)
     title = models.CharField(max_length=255)
     status = models.CharField(max_length=50)
