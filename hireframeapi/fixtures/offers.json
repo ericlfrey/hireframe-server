@@ -1,0 +1,38 @@
+[
+  {
+    "model": "hireframeapi.offer",
+    "pk": 1,
+    "fields": {
+      "seeker": 1,
+      "job": 1,
+      "startDate": "2023-08-08T14:51:39.989Z",
+      "endDate": "2023-08-09T14:51:39.989Z",
+      "amount": 75000,
+      "benefits": "All Included"
+    }
+  },
+  {
+    "model": "hireframeapi.offer",
+    "pk": 2,
+    "fields": {
+      "seeker": 1,
+      "job": 2,
+      "startDate": "2023-08-08T14:51:39.989Z",
+      "endDate": "2023-08-09T14:51:39.989Z",
+      "amount": 75000,
+      "benefits": "All Included"
+    }
+  },
+  {
+    "model": "hireframeapi.offer",
+    "pk": 3,
+    "fields": {
+      "seeker": 2,
+      "job": 3,
+      "startDate": "2023-08-08T14:51:39.989Z",
+      "endDate": "2023-08-09T14:51:39.989Z",
+      "amount": 75000,
+      "benefits": "All Included"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "model": "hireframeapi.interview",
+    "pk": 1,
+    "fields": {
+      "seeker": 1,
+      "job": 1,
+      "date_created": "2023-08-08T14:51:39.989Z",
+      "schedule": "2023-08-09T14:51:39.989Z"
+    }
+  },
+  {
+    "model": "hireframeapi.interview",
+    "pk": 2,
+    "fields": {
+      "seeker": 1,
+      "job": 2,
+      "date_created": "2023-08-08T14:51:39.989Z",
+      "schedule": "2023-08-09T14:51:39.989Z"
+    }
+  },
+  {
+    "model": "hireframeapi.interview",
+    "pk": 3,
+    "fields": {
+      "seeker": 2,
+      "job": 3,
+      "date_created": "2023-08-08T14:51:39.989Z",
+      "schedule": "2023-08-09T14:51:39.989Z"
+    }
+  }
+]
