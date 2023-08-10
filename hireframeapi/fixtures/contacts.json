@@ -1,0 +1,38 @@
+[
+  {
+    "model": "hireframeapi.contact",
+    "pk": 1,
+    "fields": {
+      "seeker": 1,
+      "job": 1,
+      "name": "Contact 1",
+      "email": "contact@contact.com",
+      "phone": "555-555-5555",
+      "company": "Company1"
+    }
+  },
+  {
+    "model": "hireframeapi.contact",
+    "pk": 2,
+    "fields": {
+      "seeker": 1,
+      "job": 2,
+      "name": "Contact 2",
+      "email": "contact@contact.com",
+      "phone": "555-555-5555",
+      "company": "Company2"
+    }
+  },
+  {
+    "model": "hireframeapi.contact",
+    "pk": 3,
+    "fields": {
+      "seeker": 2,
+      "job": 3,
+      "name": "Contact 3",
+      "email": "contact@contact.com",
+      "phone": "555-555-5555",
+      "company": "Company3"
+    }
+  }
+]

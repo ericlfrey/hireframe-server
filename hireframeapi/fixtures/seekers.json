@@ -1,0 +1,16 @@
+[
+  {
+    "model": "hireframeapi.seeker",
+    "pk": 1,
+    "fields": {
+      "uid": "001"
+    }
+  },
+  {
+    "model": "hireframeapi.seeker",
+    "pk": 2,
+    "fields": {
+      "uid": "002"
+    }
+  }
+]
